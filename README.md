@@ -37,8 +37,12 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/> </a> 
   <a href="https://www.puppet.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="40" height="40"/> </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="gitlab" width="40" height="40"/> </a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" alt="naveenrenati" />
-<img align="right"  width=500 height=120 src="Dino.gif"> </p>
+
+
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" />
+   <img src="Dino.gif"> </p>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenrenati&label=Profile%20views&color=0e75b6&style=flat" alt="naveenrenati" /> </p>
