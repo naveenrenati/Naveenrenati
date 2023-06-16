@@ -4,7 +4,7 @@
 <h align="center">I am a big fan of DevOps and Cloud Engineering, and I'm fascinated by the possibilities they provide. With a preference for automation and a talent for cloud infrastructure optimisation, I thrive on creating creative solutions that streamline operations.My strong focus and insatiable curiosity make me an invaluable asset in the field of DevOps and Cloud Engineering.</h>
 
 
-  <img align="right" alt="devops" width=400 height=200 src="work.gif">
+  <img align="right" alt="devops" width=400 height=200 src="work1.gif">
   
 - 🌱 I’m currently learning **Devops and AWS**
 - 📫 How to reach me **renatinaveen5@gmail.com**
