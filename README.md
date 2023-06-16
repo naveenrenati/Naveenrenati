@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Devops and AWS**
 - 📫 How to reach me **renatinaveen5@gmail.com**
   
-- <p align="left"><a href="https://linkedin.com/in/naveen-renati" target="_blank"><img align="center" src="linkedin.svg" alt="https://www.linkedin.com/in/naveen-renati" height="30" width="40" /></a></p>
+- <p align="left"><a href="https://linkedin.com/in/naveen-renati" {:target="_blank"}><img align="center" src="linkedin.svg" alt="https://www.linkedin.com/in/naveen-renati" height="30" width="40" /></a></p>
 
 - <p align="left"><a href="https://naveenrenati.wordpress.com/" target="_blank"><img align="center" src="mywebsite.jpeg" height="30" width="40" /></a></p>
   
