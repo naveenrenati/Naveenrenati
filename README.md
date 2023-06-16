@@ -38,9 +38,9 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="gitlab" width="40" height="40"/> </a>
 
 
-<div style="display: flex;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" style="flex: 1"/>
-   <img src="Dino.gif" style="flex: 1"/> 
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" />
+   <img src="Dino.gif" /> 
 </div>
 
 
