@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Naveen</h1>
-<h3 align="center">I am a big fan of DevOps and Cloud Engineering, and I'm fascinated by the possibilities they provide. With a preference for automation and a talent for cloud infrastructure optimisation, I thrive on creating creative solutions that streamline operations.My strong focus and insatiable curiosity make me an invaluable asset in the field of DevOps and Cloud Engineering.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenrenati&label=Profile%20views&color=0e75b6&style=flat" alt="naveenrenati" /> </p>
+<img align="center" alt="devops" width=1000 height=200 src="i1.jpg">
+
+<h align="center">I am a big fan of DevOps and Cloud Engineering, and I'm fascinated by the possibilities they provide. With a preference for automation and a talent for cloud infrastructure optimisation, I thrive on creating creative solutions that streamline operations.My strong focus and insatiable curiosity make me an invaluable asset in the field of DevOps and Cloud Engineering.</h>
+
 
 - 🌱 I’m currently learning **Devops and AWS**
 
 - 📫 How to reach me **renatinaveen5@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
