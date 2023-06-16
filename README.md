@@ -1,6 +1,9 @@
 
 <img align="center" alt="devops" width=800 height=200 src="i2.png">
-  
+
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=2000&pause=100&color=3BA1C5&width=450&height=30&lines=Computer+Science+Undergraduate;DevOps+Engineer;Cloud+Computing+-+AWS+%2C+Azure;C+%7C+Python+%7C+Bash+%7C+Powershell;Aspiring+Learner" alt="Typing SVG" /></a>
+</p>
 <h align="center">I am a big fan of DevOps and Cloud Engineering, and I'm fascinated by the possibilities they provide. With a preference for automation and a talent for cloud infrastructure optimisation, I thrive on creating creative solutions that streamline operations.My strong focus and insatiable curiosity make me an invaluable asset in the field of DevOps and Cloud Engineering.</h>
 
 
