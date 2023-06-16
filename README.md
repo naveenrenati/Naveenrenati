@@ -46,13 +46,17 @@
 </div>
 -->
 
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Naveenrenati" alt="GitHub Streak">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact"/>
-</div>    
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Naveenrenati" alt="GitHub Streak" style="flex: 1; max-width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" style="flex: 1; max-width: 50%;">
+</div>
+
 
 <div>
  <img src= "snake.svg" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenrenati&label=Profile%20views&color=0e75b6&style=flat" alt="naveenrenati" /> </p>
+
+
+
