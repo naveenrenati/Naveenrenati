@@ -39,8 +39,8 @@
 
 
 <div style="display: flex;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" style="flex: 1; max-width: 35%;"/>
-   <img src="Dino.gif" style="flex: 1; max-width: 65%;"/> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" style="flex: 1"/>
+   <img src="Dino.gif" style="flex: 1"/> 
 </div>
 
 
