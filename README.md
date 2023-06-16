@@ -1,6 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenrenati&label=Profile%20views&color=0e75b6&style=flat" alt="naveenrenati" /> </p>
-<img align="center" alt="devops" width=800 height=150 src="i1.jpg">
 
+<img align="center" alt="devops" width=800 height=150 src="i1.jpg">
 <h align="center">I am a big fan of DevOps and Cloud Engineering, and I'm fascinated by the possibilities they provide. With a preference for automation and a talent for cloud infrastructure optimisation, I thrive on creating creative solutions that streamline operations.My strong focus and insatiable curiosity make me an invaluable asset in the field of DevOps and Cloud Engineering.</h>
 
 
@@ -33,3 +32,5 @@
   <a href="https://www.puppet.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="40" height="40"/> </a></p>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="gitlab" width="40" height="40"/> </a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" alt="naveenrenati" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenrenati&label=Profile%20views&color=0e75b6&style=flat" alt="naveenrenati" /> </p>
