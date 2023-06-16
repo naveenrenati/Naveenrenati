@@ -1,5 +1,5 @@
 
-<img align="center" alt="devops" width=800 height=150 src="i1.jpg">
+<img align="center" alt="devops" width=400 height=200 src="i1.jpg">
 <h align="center">I am a big fan of DevOps and Cloud Engineering, and I'm fascinated by the possibilities they provide. With a preference for automation and a talent for cloud infrastructure optimisation, I thrive on creating creative solutions that streamline operations.My strong focus and insatiable curiosity make me an invaluable asset in the field of DevOps and Cloud Engineering.</h>
 
 
