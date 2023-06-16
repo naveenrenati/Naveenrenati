@@ -5,7 +5,7 @@
 
 <img align="right" alt="devops" width=400 height=200 src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<div style="background-color: #66b6d2;">
+
 - 🌱 I’m currently learning **Devops and AWS**
 
 - 📫 How to reach me **renatinaveen5@gmail.com**
@@ -37,7 +37,11 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/> </a> 
   <a href="https://www.puppet.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="40" height="40"/> </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="gitlab" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" alt="naveenrenati" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrenati&show_icons=true&locale=en&layout=compact" alt="naveenrenati" />
+<img align="right"  width=700 height=200 src="Dino.gif"> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenrenati&label=Profile%20views&color=0e75b6&style=flat" alt="naveenrenati" /> </p>
+
+
 
