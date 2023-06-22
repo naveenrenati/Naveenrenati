@@ -35,6 +35,7 @@
   <a href="https://www.ansible.com/"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/> </a> 
   <a href="https://www.puppet.com/"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="40" height="40"/> </a>
   <a href="https://about.gitlab.com/"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="gitlab" width="40" height="40"/> </a>
+  <a href="https://www.terraform.io/"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
 </p>
 
 <br>
