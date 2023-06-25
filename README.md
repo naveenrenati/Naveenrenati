@@ -2,7 +2,7 @@
 <img align="center" alt="devops" width=800 height=200 src="i2.png">
 
 <p  align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=2000&pause=100&color=3BA1C5&width=450&height=30&lines=AI+&+DS+Undergraduate;DevOps+Engineer;Cloud+Computing+-+AWS+%2C+Azure;C+%7C+Python+%7C+Bash+%7C+Powershell+;Dockers+%7C+Kubernetes+%7C+Ansible+%7C+Jenkins;Aspiring+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=2000&pause=100&color=3BA1C5&width=450&height=30&lines=AI+and+DS+Undergraduate;DevOps+Engineer;Cloud+Computing+-+AWS+%2C+Azure;C+%7C+Python+%7C+Bash+%7C+Powershell+;Dockers+%7C+Kubernetes+%7C+Ansible+%7C+Jenkins;Aspiring+Learner" alt="Typing SVG" /></a>
   
 <h align="center">I am a big fan of DevOps and Cloud Engineering, and I'm fascinated by the possibilities they provide. With a preference for automation and a talent for cloud infrastructure optimisation, I thrive on creating creative solutions that streamline operations.My strong focus and insatiable curiosity make me an invaluable asset in the field of DevOps and Cloud Engineering.</h>
 </p>
