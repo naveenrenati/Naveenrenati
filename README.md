@@ -19,7 +19,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p > 
   <a href="https://aws.amazon.com"> <img src="Amazon-Web-Services-AWS-Emblem.png" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" > <img src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://grafana.com"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
