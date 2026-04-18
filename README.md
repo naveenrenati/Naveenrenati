@@ -8,7 +8,9 @@
 
 ---
 
-### About Me
+<img align="right" alt="coding" width="400" src="work1.gif">
+
+### 🚀 About Me
 
 I’m focused on **Cloud, DevOps, and Software Development**, building systems that are **scalable, reliable, and automated**.
 
@@ -22,10 +24,10 @@ I’m constantly exploring ways to **optimize systems, reduce manual effort, and
 
 ---
 
-### Connect With Me
+### 📫 Connect With Me
 
 - 🔗 LinkedIn: https://linkedin.com/in/naveenrenati  
-- 🌐 Portfolio: https://naveen-renati-portfolio.vercel.app 
+- 🌐 Portfolio: https://your-portfolio-link.com  
 - 📧 Email: renatinaveen5@gmail.com  
 
 ---
