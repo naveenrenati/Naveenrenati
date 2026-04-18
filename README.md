@@ -27,7 +27,7 @@ I’m constantly exploring ways to **optimize systems, reduce manual effort, and
 ### 📫 Connect With Me
 
 - 🔗 LinkedIn: https://linkedin.com/in/naveenrenati  
-- 🌐 Portfolio: https://your-portfolio-link.com  
+- 🌐 Portfolio: https://naveen-renati-portfolio.vercel.app/
 - 📧 Email: renatinaveen5@gmail.com  
 
 ---
